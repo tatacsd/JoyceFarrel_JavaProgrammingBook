@@ -19,9 +19,8 @@ public class Comments {
 			comments in a Java class. Save the
 			class as Comments.java.
 		 */
-		JOptionPane.showMessageDialog(null, " Program comments are nonexecuting \r\n"
-				+ "   statements you add to file for a\r\n"
-				+ "           documentation.");
+		System.out.print("Program comments are nonexecuting \r\n"
+				+ "statements you add to file for documentation.");
 		/*
 		 * Block comments
 		 *  Program comments are
