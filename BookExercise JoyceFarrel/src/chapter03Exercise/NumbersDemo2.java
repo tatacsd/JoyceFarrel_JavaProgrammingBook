@@ -11,6 +11,10 @@ public class NumbersDemo2 {
 		int var1 = keyboard.nextInt();
 		System.out.print("Please input another integer >> ");
 		int var2 = keyboard.nextInt();
+		
+		// Close Scanner
+		keyboard.close();
+		
 		System.out.println();
 		displayTwiceTheNumber(var1, var2);
 		displayNumberPlusFive(var1, var2);
