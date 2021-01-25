@@ -8,8 +8,7 @@ the file as CountByFives.java
 
 public class CountByFive {
 	public static void main(String[] args) {
-		int count = 500;
-		for (int i = 0; i <= count; i+= 5) {
+		for (int i = 0; i <= 500; i+= 5) {
 			if ((i > 0) && (i % 50 == 0)) {
 				System.out.println();
 			}
