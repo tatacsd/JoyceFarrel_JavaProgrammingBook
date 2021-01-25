@@ -1,4 +1,4 @@
-package chapter04Exercises;
+package chapter06Exercise;
 public class DiagonalOs {
 	public static void main(String[] args) {
 		int row = 10;
