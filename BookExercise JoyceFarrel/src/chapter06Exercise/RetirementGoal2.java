@@ -14,7 +14,7 @@ public class RetirementGoal2 {
 		final double INTERESTS = 0.4; 
 		int numberOfYears;
 		double annuallyMoney;
-		double totalRetirement;
+		double totalRetirement;	
 		
 		// Initiate Scanner
 		Scanner keyboard = new Scanner(System.in);		
