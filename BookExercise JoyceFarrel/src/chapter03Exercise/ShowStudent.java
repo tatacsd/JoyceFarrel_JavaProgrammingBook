@@ -20,7 +20,6 @@ public class ShowStudent {
 		
 		// display all the values associated with the Student
 		studentOne.displayStudentField();		
-	}
-	
+	}	
 
 }

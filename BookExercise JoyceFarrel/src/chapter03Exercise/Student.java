@@ -55,7 +55,4 @@ public class Student {
 		System.out.printf("The student ID: %d\nThe number of credits hour: %.2f\nThe number of points: %.2f\nThe grade average: %.2f",
 				numberId, numberOfCreditsHour, numberOfPoints, gradeAverage);
 	}
-	
-
-
 }
