@@ -19,6 +19,11 @@ public class Student {
 	private double numberOfCreditsHour;
 	private double gradeAverage;
 	
+	// Default Constructor
+	public Student() {
+		
+	}
+	
 	// Setters and Getters
 	public double getNumberOfCreditsHour() {
 		return numberOfCreditsHour;
