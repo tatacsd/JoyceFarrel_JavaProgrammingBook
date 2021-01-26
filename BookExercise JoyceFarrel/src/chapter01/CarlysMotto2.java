@@ -1,3 +1,4 @@
+package chapter01;
 import javax.swing.JOptionPane;
 
 public class CarlysMotto2 {
