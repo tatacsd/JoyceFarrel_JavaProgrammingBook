@@ -1,6 +1,6 @@
 package chapter06Exercise;
 /*
-					 * b. Modify the RetirementGoal application to display the amount of money the
+					 * 10 b. Modify the RetirementGoal application to display the amount of money the
 					user will have if the user earns 4% interest on the balance every year. Save the
 					file as RetirementGoal2.java
  */
@@ -15,7 +15,6 @@ public class RetirementGoal2 {
 		int numberOfYears;
 		double annuallyMoney;
 		double totalRetirement;
-		
 		
 		// Initiate Scanner
 		Scanner keyboard = new Scanner(System.in);		
