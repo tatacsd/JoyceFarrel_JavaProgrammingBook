@@ -28,5 +28,11 @@ public class TestFitnessTracker {
 		// Display the objects attributes
 		System.out.printf("The activity is: %s\nThe minutes spent paticipating is: %d\nThe date is: %s\n\n",
 				activityOne.getFitnessActivity(), activityOne.getNumberOfMinutes(), activityOne.getDate());
+		
+		// Testing overload constructor
+		// Create an new object
+		FitnessTracker activityTwo = new FitnessTracker("tennis", 200, "feb 01");
+		System.out.printf("The activity is: %s\nThe minutes spent paticipating is: %d\nThe date is: %s\n\n",
+				activityTwo.getFitnessActivity(), activityTwo.getNumberOfMinutes(), activityTwo.getDate());
 	}
 }
