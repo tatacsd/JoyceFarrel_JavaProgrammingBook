@@ -17,7 +17,7 @@ public class BowlingTeamDemo {
 		System.out.print("Enter team name >> ");
 		name = keyboard.nextLine();
 		
-		// Add the name to a bowlteam
+		// Add the name to a bowling team
 		bowlTeam.setTeamName(name);
 		
 		// Loop to add the team members position and name
