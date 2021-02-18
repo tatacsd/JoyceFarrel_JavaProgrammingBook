@@ -15,7 +15,6 @@ public class BowlingTeam {
 		this.teamName = teamName;
 	}
 
-	// Methods
 	// Set the team members name
 	public void setMember(int number, String name) {
 		members[number] = name;
