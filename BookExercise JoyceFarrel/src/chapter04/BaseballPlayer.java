@@ -10,7 +10,7 @@ public class BaseballPlayer {
 	public BaseballPlayer(int id, double avg) {
 		number = id;
 		battingAverage = avg;
-		countOfPlayers += 1;
+		countOfPlayers += 1; // add one and all objects has access to its
 	}
 	
 	// Methods
